@@ -1,2 +1,7 @@
-# KFU
-MyWorking for contests and practice
+Просто кидаю сюда решения на свои задачи
+Только зачем....
+
+Может кому то понадобится?
+
+СиАОД - https://github.com/AnSafov07/KFU/tree/main/SiOD
+Контесты - ???
